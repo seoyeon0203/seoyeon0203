@@ -1,3 +1,4 @@
+Hello nice to meet you (●'◡'●)
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&text=Seoyeon%20Kim&fontSize=90)
 
 🌱 I’m currently learning Java, Python
