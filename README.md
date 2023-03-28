@@ -1,9 +1,17 @@
 Hi Hello Welcome (●'◡'●)
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&text=Seoyeon%20Kim&fontSize=90)
+Leanrning
+- Java
+- Python
+- Javascript
 
-🌱 I’m currently learning Java, Python
+Studying
+- Html, Css
+- C
+
+
 
 <!--
+- 🌱 I’m currently learning Java, Python
 - 🔭 I’m currently working on 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
