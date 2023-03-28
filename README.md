@@ -7,10 +7,10 @@ Studying👀
 - Html, Css
 - C
 
-
+📫 How to reach me: seoyeon784@gmail.com
 
 <!--
-- 🌱 I’m currently learning Java, Python
+- 🌱 I’m currently learning ... 
 - 🔭 I’m currently working on 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
