@@ -1,10 +1,9 @@
-Hi Hello Welcome (●'◡'●)
-Leanrning
+Leanrning📚
 - Java
 - Python
 - Javascript
 
-Studying
+Studying👀
 - Html, Css
 - C
 
