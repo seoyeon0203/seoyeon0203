@@ -1,4 +1,4 @@
-Leanrning📚
+Learning📚
 - Java
 - Python
 - Javascript
